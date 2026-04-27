@@ -8,6 +8,7 @@ The dataset contains records of creep tests of nuclear structural materials. As 
 * <a href="Creep_Data.csv">Creep_Data.csv</a>: the main dataset in a comma-separated values format.
 * <a href="Column_Descriptions.csv">Column_Descriptions.csv</a>: descriptions of all 71 column parameters in the dataset.
 * <a href="References.csv">References.csv</a>: list of the 50 references from which the data were extracted.
+* <a href="Sample_Code.ipynb">Sample_Code.ipynb</a>: a Jupyter Notebook containing Python code for loading the dataset and visualization of several data features.
 
 # License
 <a href="License - MIT.txt">MIT License</a>
