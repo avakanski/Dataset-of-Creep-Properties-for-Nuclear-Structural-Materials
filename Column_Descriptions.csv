@@ -38,7 +38,6 @@ Treatment categories,"Treatment methods are grouped into three categories: Heat 
 "Post treatment time, h",Time duration of the post treatment process
 Cooling,Cooling method used in the treatment process
 Finishing process,"Process used to cut test specimen, or polish specimen"
-"Surface Roughness  (Rz, um)","If measured, surface roughness of specimen"
 Microstructure,Microstructure of the material
 Morphology,Morphology of the material
 Grain size (um),Grain size of the material
@@ -56,7 +55,6 @@ Fillet radius R (mm),Fillet radius of the specimen
 Width (mm),Width of the specimen
 Notch,"if there is a notch? Yes, No"
 Aspect ratio (L/w),Aspect ratio of gauge length-to-width
-Aspect ratio (R/w),Aspect ratio of fillet radius-to-width
 Aspect ratio (t/w),Aspect ratio of thickness-to-width
 Creep Test Type,"Uniaxial creep test, impression creep test, small punch creep test, small ring test, and two-bar test"
 Stress (Mpa),"The force applied per unit area on a material, influencing its deformation or fracture."
