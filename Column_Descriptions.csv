@@ -1,0 +1,71 @@
+Reference,"Reference ID to the paper where the data are extracted from, this ID links to the ""References"" sheet, where the Reference ID and the title of the paper are recorded"
+Alloy Group,"Material used in the tensile test from each paper, such as SS 316 steel, SA508, SA533B, SA302B, etc.,"
+Alloy Designation,"Group of the material, the materials are divided into groups including SS316, Reactor Pressure Vessel Steels (RPVS), Nuclear Structural Materials (NSM), Fuel Cladding alloys, Support Structures, Reactor Internals, etc."
+Alloy Grade,"There are different grades within the material group, such as SS316N, SS316L, etc."
+Class,"There are sub-section of different grade of material defined in class such as 1, or 2…"
+Heat,This heat is a ID designation for INL's material treatment process
+"C, wt.%",Weight percentage of the element in the material
+"Si, wt.%",Weight percentage of the element in the material
+"Mn, wt.%",Weight percentage of the element in the material
+"P, wt.%",Weight percentage of the element in the material
+"S, wt.%",Weight percentage of the element in the material
+"Ni, wt.%",Weight percentage of the element in the material
+"Cr, wt.%",Weight percentage of the element in the material
+"Mo, wt.%",Weight percentage of the element in the material
+"Al, wt.%",Weight percentage of the element in the material
+"N, wt.%",Weight percentage of the element in the material
+"Ti, wt.%",Weight percentage of the element in the material
+"Fe, wt.%",Weight percentage of the element in the material
+"Nb, wt.%",Weight percentage of the element in the material
+"B, wt.%",Weight percentage of the element in the material
+"Cu, wt.%",Weight percentage of the element in the material
+"V, wt.%",Weight percentage of the element in the material
+"Mg, wt.%",Weight percentage of the element in the material
+"Y, wt.%",Weight percentage of the element in the material
+"Zr, wt.%",Weight percentage of the element in the material
+"Zn, wt.%",Weight percentage of the element in the material
+"W, wt.%",Weight percentage of the element in the material
+"Sn, wt.%",Weight percentage of the element in the material
+"Co, wt.%",Weight percentage of the element in the material
+"O, wt.%",Weight percentage of the element in the material
+"Ta, wt.%",Weight percentage of the element in the material
+"H, wt.%",Weight percentage of the element in the material
+Manufacturing,Manufacturing methods used for the material
+Treatment,Treatment methods used in the material
+Treatment categories,"Treatment methods are grouped into three categories: Heat Treatment, Solution Anneal, and 20% Cold-worked.. Etc"
+"Treatment temperature, C",Temperature applied for the as received samples
+"Post treatment temperature, C",Temperature applied after the treatment
+"Post treatment time, h",Time duration of the post treatment process
+Cooling,Cooling method used in the treatment process
+Finishing process,"Process used to cut test specimen, or polish specimen"
+"Surface Roughness  (Rz, um)","If measured, surface roughness of specimen"
+Microstructure,Microstructure of the material
+Morphology,Morphology of the material
+Grain size (um),Grain size of the material
+Irradiation Dose,Irradiation dose applied to the tensile specimen before the tensile test
+Irradiation Temperature,Irradiation temperature during the irradiation process
+Irradiated Specimen,Yes or No
+Irradiation Time,Irradiation time duration of the irradiation process
+Specimen Stock Type,Specimen stock type or geometry
+Specimen Shape,Indicates if the specimen has flat or curved shape
+Specimen Size,Sub-sized or Standard-sized
+Sub-sized Test Type,The Creep Test Type
+Length (mm),Gauge length of the specimen
+Thickness (mm),Thickness of the specimen
+Fillet radius R (mm),Fillet radius of the specimen
+Width (mm),Width of the specimen
+Notch,"if there is a notch? Yes, No"
+Aspect ratio (L/w),Aspect ratio of gauge length-to-width
+Aspect ratio (R/w),Aspect ratio of fillet radius-to-width
+Aspect ratio (t/w),Aspect ratio of thickness-to-width
+Creep Test Type,"Uniaxial creep test, impression creep test, small punch creep test, small ring test, and two-bar test"
+Stress (Mpa),"The force applied per unit area on a material, influencing its deformation or fracture."
+Temperature of Creep Test (C),Testing temperature of specimen
+Creep Rupture Life (h),Time it takes for specimen to rupture
+Minimum Creep Rate,"Also known as steady-state creep rate, it is the second stage of the creep test"
+Strain to Rupture (%),"Strain recorded at rupture (it's suppose to be unitless, one can also presented as (%)"
+Reduction of Area (%),Reduction in area after test or rupture
+Time (h),"If not tested to rupture, how long was the test?"
+Strain (%),"If test did not test till rupture, what was the end strain value"
+Vacuum,Whether the test was conducted in a vacuum environment (Yes/No)
+Comments and Notes,Additional comments
